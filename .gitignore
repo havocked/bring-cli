@@ -47,3 +47,4 @@ dmypy.json
 # Credentials (CRITICAL — do not commit)
 credentials.json
 *.credentials.json
+src/bring_cli.egg-info/
